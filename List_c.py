@@ -1,0 +1,11 @@
+g=[10,20,30]
+print(g)
+print(type(g))
+g.append(40)
+g.remove(10)
+g.reverse()
+g.insert(0,2)
+g.insert(3,1)
+g.pop(0)
+print(g.count(20))
+print(g)

@@ -1,0 +1,12 @@
+a="India"
+print(a)
+print(type(a))
+print(a[1])
+print(a[-1])
+print(a[:])
+print(a[::])
+print(a[::-1])
+print(a[1:5])
+print(a[1:])
+print(a[:-1])
+print(a[:5])
